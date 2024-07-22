@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32053137f337ef1c044053ecdc52900d",
+    "revision": "deb22f2c6c6b237d8bb698a15c2d183a",
     "url": "/protofolio_app/index.html"
   },
   {
-    "revision": "a907a308bfab9c49f422",
+    "revision": "5376fdf792bc7dc59be7",
     "url": "/protofolio_app/static/css/2.d6eadcad.chunk.css"
   },
   {
-    "revision": "c9df1a3e9c68411e626a",
+    "revision": "0e2677ee075da1a4fca3",
     "url": "/protofolio_app/static/css/main.e7ccb40e.chunk.css"
   },
   {
-    "revision": "a907a308bfab9c49f422",
-    "url": "/protofolio_app/static/js/2.cedfd466.chunk.js"
+    "revision": "5376fdf792bc7dc59be7",
+    "url": "/protofolio_app/static/js/2.b5c6b014.chunk.js"
   },
   {
-    "revision": "623cab6c2e1ede744537",
-    "url": "/protofolio_app/static/js/3.7e8ac2ef.chunk.js"
+    "revision": "129cf9a32113f88d4bed",
+    "url": "/protofolio_app/static/js/3.a7cd144b.chunk.js"
   },
   {
-    "revision": "c9df1a3e9c68411e626a",
-    "url": "/protofolio_app/static/js/main.e5dec7d9.chunk.js"
+    "revision": "0e2677ee075da1a4fca3",
+    "url": "/protofolio_app/static/js/main.9289caf6.chunk.js"
   },
   {
-    "revision": "4c18a18812e0a772bacb",
-    "url": "/protofolio_app/static/js/runtime~main.95d33f71.js"
+    "revision": "fac18796eb67f2dda1b4",
+    "url": "/protofolio_app/static/js/runtime~main.bda10f18.js"
   },
   {
     "revision": "5cfec2737bc3e106453e6ab5479463da",
@@ -114,6 +114,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "81ff4e970a39053a0acdc10fd58dc5c4",
     "url": "/protofolio_app/static/media/nav-icon3.81ff4e97.svg"
+  },
+  {
+    "revision": "db984dfc680d1566d0c5971d377b8948",
+    "url": "/protofolio_app/static/media/prayerTimings.db984dfc.png"
   },
   {
     "revision": "0913016aa6013009920d63d0e7e91bfd",
